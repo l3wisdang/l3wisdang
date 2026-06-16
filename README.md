@@ -1,8 +1,7 @@
 # Hi, I'm Lewis 👋
 
-I'm an Economics and Management student at Loughborough University (ranked 1st in cohort), currently on exchange at Nanyang Technological University, Singapore, studying Derivatives & Hedging, Financial Risk Analytics, Investments, Business Valuations, and Prescriptive Analytics. My interests sit in quantitative finance at the intersection of **investment risk, portfolio analytics, derivatives, and optimisation**.
+I'm Lewis Dang a student at Loughborough University with an exchange year completed at Nanyang Technological University, Singapore. I am studying Economics and and Management with a focus on financial risk and derivatives. My interets lie in Quantitative finance, Investment Risk, Portfolio analytics and Optimisation. I hope you enjoy my portfolio!**.
 
-The projects below are my attempt to build that toolkit end to end: optimisation under constraints, Bayesian portfolio construction, simulation and risk, statistical inference, and the machine-learning fundamentals underneath it all. I hope you enjoy them.
 
 ## Projects
 
