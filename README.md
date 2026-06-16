@@ -8,17 +8,17 @@ I'm Lewis Dang, a student at Loughborough University with an exchange year compl
 <tr>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/Autonomous-Vehicle-Task-offloading-optimisation"><b>Autonomous Vehicle Task Offloading</b></a><br>
-(May 2026)<br>
+(Jan-May 2026)<br>
 <i>Python, Gurobi, Integer Linear Programming</i>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/QBE-Insurance-analytics"><b>QBE SME Insurance Analytics</b></a><br>
-(May 2026)<br>
+(Jan-May 2026)<br>
 <i>R, Quarto, Logistic Regression, XGBoost + SHAP</i>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/black-litterman-sector-rotation"><b>Black-Litterman Sector Rotation</b></a><br>
-(March 2026)<br>
+(Feb-Mar 2026)<br>
 <i>Python, Black-Litterman, Streamlit, scikit-learn</i>
 </td>
 </tr>
@@ -30,17 +30,17 @@ I'm Lewis Dang, a student at Loughborough University with an exchange year compl
 <tr>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/portfolio-risk-return-analysis"><b>Optimal Portfolio Construction & Risk-Return Analysis</b></a><br>
-(January 2026)<br>
+(Nov 2025-Jan 2026)<br>
 <i>Excel, Sharpe Ratio, CAPM, Solver Optimisation</i>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/monte-carlo-risk-of-ruin"><b>Monte Carlo Risk of Ruin</b></a><br>
-(November 2025)<br>
+(Nov 2025)<br>
 <i>Python, Monte Carlo Simulation, Risk Analysis</i>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/Neural-Network-from-scratch"><b>Neural Network from Scratch</b></a><br>
-(October 2025)<br>
+(Oct 2025)<br>
 <i>Python, NumPy, Backpropagation, Gradient Descent</i>
 </td>
 </tr>
@@ -53,7 +53,7 @@ I'm Lewis Dang, a student at Loughborough University with an exchange year compl
 <td align="center" width="33%"></td>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/economic-indicators-analysis"><b>Global Economic Indicators Analysis</b></a><br>
-(March 2025)<br>
+(Jan-Mar 2025)<br>
 <i>Python, pandas, Time Series, World Bank Data</i>
 </td>
 <td align="center" width="33%"></td>
