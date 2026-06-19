@@ -7,6 +7,11 @@ I'm Lewis Dang, a student at Loughborough University with an exchange year compl
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://github.com/l3wisdang/World-Cup-Black-Litterman-Model"><b>Black-Litterman World Cup 2026 Predictor</b></a><br>
+(June 2026)<br>
+<i>Python, Black-Litterman, Monte Carlo, Streamlit</i>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/l3wisdang/Autonomous-Vehicle-Task-offloading-optimisation"><b>Autonomous Vehicle Task Offloading</b></a><br>
 (Jan-May 2026)<br>
 <i>Python, Gurobi, Integer Linear Programming</i>
@@ -16,18 +21,18 @@ I'm Lewis Dang, a student at Loughborough University with an exchange year compl
 (Jan-May 2026)<br>
 <i>R, Quarto, Logistic Regression, XGBoost + SHAP</i>
 </td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/l3wisdang/World-Cup-Black-Litterman-Model"><img src="images/world-cup.png" width="300"></a></td>
+<td align="center"><a href="https://github.com/l3wisdang/Autonomous-Vehicle-Task-offloading-optimisation"><img src="images/av-optimisation.png" width="300"></a></td>
+<td align="center"><a href="https://github.com/l3wisdang/QBE-Insurance-analytics"><img src="images/qbe-analytics.png" width="300"></a></td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/black-litterman-sector-rotation"><b>Black-Litterman Sector Rotation</b></a><br>
 (Feb-Mar 2026)<br>
 <i>Python, Black-Litterman, Streamlit, scikit-learn</i>
 </td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/l3wisdang/Autonomous-Vehicle-Task-offloading-optimisation"><img src="images/av-optimisation.png" width="300"></a></td>
-<td align="center"><a href="https://github.com/l3wisdang/QBE-Insurance-analytics"><img src="images/qbe-analytics.png" width="300"></a></td>
-<td align="center"><a href="https://github.com/l3wisdang/black-litterman-sector-rotation"><img src="images/black-litterman.png" width="300"></a></td>
-</tr>
-<tr>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/portfolio-risk-return-analysis"><b>Optimal Portfolio Construction & Risk-Return Analysis</b></a><br>
 (Nov 2025-Jan 2026)<br>
@@ -38,19 +43,18 @@ I'm Lewis Dang, a student at Loughborough University with an exchange year compl
 (Nov 2025)<br>
 <i>Python, Monte Carlo Simulation, Risk Analysis</i>
 </td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/l3wisdang/black-litterman-sector-rotation"><img src="images/black-litterman.png" width="300"></a></td>
+<td align="center"><a href="https://github.com/l3wisdang/portfolio-risk-return-analysis"><img src="images/portfolio-risk-return.png" width="300"></a></td>
+<td align="center"><a href="https://github.com/l3wisdang/monte-carlo-risk-of-ruin"><img src="images/monte-carlo.png" width="300"></a></td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/Neural-Network-from-scratch"><b>Neural Network from Scratch</b></a><br>
 (Oct 2025)<br>
 <i>Python, NumPy, Backpropagation, Gradient Descent</i>
 </td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/l3wisdang/portfolio-risk-return-analysis"><img src="images/portfolio-risk-return.png" width="300"></a></td>
-<td align="center"><a href="https://github.com/l3wisdang/monte-carlo-risk-of-ruin"><img src="images/monte-carlo.png" width="300"></a></td>
-<td align="center"><a href="https://github.com/l3wisdang/Neural-Network-from-scratch"><img src="images/neural-network.png" width="300"></a></td>
-</tr>
-<tr>
-<td align="center" width="33%"></td>
 <td align="center" width="33%">
 <a href="https://github.com/l3wisdang/economic-indicators-analysis"><b>Global Economic Indicators Analysis</b></a><br>
 (Jan-Mar 2025)<br>
@@ -59,7 +63,7 @@ I'm Lewis Dang, a student at Loughborough University with an exchange year compl
 <td align="center" width="33%"></td>
 </tr>
 <tr>
-<td align="center"></td>
+<td align="center"><a href="https://github.com/l3wisdang/Neural-Network-from-scratch"><img src="images/neural-network.png" width="300"></a></td>
 <td align="center"><a href="https://github.com/l3wisdang/economic-indicators-analysis"><img src="images/economic-indicators.png" width="300"></a></td>
 <td align="center"></td>
 </tr>
